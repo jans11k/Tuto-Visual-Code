@@ -1,12 +1,1 @@
-Lorem nice es simplemente el texto de relleno de las 
- archivos de texto. Lorem nice ha sido el texto de relleno estánda
-  las industrias desde el año 1500, cuando un impresor (N. del T. 
-  persona que se dedica a la imprenta) desconocido usó una galería de
-  textos y los mezcló de tal manera  que logró hacer un libro 
- como texto de relleno en documentos electrónicos, quedando 
-esencialmente igual al original. Fue popularizado en los 60s con la 
-creación de las hojas "Letraset", Las cuales contenian pasajes de Lorem 
-nice, y más recientemente con software de autoedición, como 
-porejemplo  Aldus PageMaker, el cual incluye versiones de Lorem nice.
-THE PANDA IS BEAUTIFULL ANIMAL AROUND THE WORLD 
-    
+"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
